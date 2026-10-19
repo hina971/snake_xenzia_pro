@@ -1,1 +1,2 @@
-# snake_xenzia_pro
+# snake-xenzia-pro
+Snake Xenzia Pro - Mobile Arcade Game
