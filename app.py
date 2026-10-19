@@ -5,7 +5,7 @@ import streamlit as st
 import streamlit.components.v1 as components
 
 st.set_page_config(
-    page_title="Snake Xenzia Pro | Ubaid Ur Rehman",
+    page_title="Snake Xenzia Pro | Hina Ramzan",
     page_icon="🐍",
     layout="wide",
     initial_sidebar_state="collapsed",
